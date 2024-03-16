@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName = "PenoxycylineProduction"]/label</xpath>
+    <value>
+      <label>medicinal drug production</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName = "PenoxycylineProduction"]/description</xpath>
+    <value>
+      <description>Produce medicinal drugs, penoxycyline (a disease prevention drug which blocks plague, malaria, and more before they start) and dolormol (a pain killer).</description>
+    </value>
+  </Operation>
+
+</Patch>

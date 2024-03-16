@@ -4,13 +4,18 @@
   <author>themattfiles</author>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <packageId>tmf.dolormol</packageId>
-  <description>Trust DOLORMOL®, the #1 doctor-recommended brand for pain relief and fever reduction to help you get back to the things you love. Containing 500 mg of neutroamine, DOLORMOL® Extra Strength Caplets help temporarily reduce fever in adults and children, and provide powerful relief of minor scars, missing limbs, botched surgeries and more.
+  <description>Trust DOLORMOL®, the #1 doctor-recommended brand for pain relief and fever reduction to help you get back to the things you love. Containing 500 mg of neutroamine, DOLORMOL® Extra Strength Caplets help temporarily reduce fever in adults and children, and provide powerful relief of minor scars, missing limbs, botched surgeries, and more.
 
-  Penoxycyline art by Ludeon Studios.
+  Created with Aesprite, Adobe Photoshop, and Visual Studio Code.
 
-  Created with Aesprite, Adobe Photoshop, and Visual Studio Code.</description>
+  Translations:
+  ZN: https://steamcommunity.com/sharedfiles/filedetails/?id=2896663487
+
+  Portions of the materials used to create this content/mod are trademarks and/or copyrighted works of Ludeon Studios Inc. All rights reserved by Ludeon. This content/mod is not official and is not endorsed by Ludeon.
+  </description>
   <loadAfter>
     <li>Ludeon.RimWorld</li>
     <li>Ludeon.RimWorld.Royalty</li>

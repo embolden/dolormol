@@ -1,0 +1,17 @@
+2.0.0 - 2024/03/16
+- Added CHANGELOG
+- Added LICENSE
+- Added card PSD.
+- Updated preview image dimensions.
+- Updated Steam description.
+- Added link to Chinese translation.
+- Rebalances the medicine to have a more "common" feel to it by lowering its market value, increasing the rate in which it can be produced. Lowers the duration for a more "realistic" feel.
+  - Changed `ThingDef/recipeMaker/productCount` from 1 to 4.
+  - Changed `ThingDef/stateBases/MarketValue` from to 7 to 1.
+  - Changed `HediffDef/HediffCompProperties_SeverityPerDay/severityPerDay` from -0.33 to -1.
+
+1.0.1 - Dec 2 @ 2:31pm
+- Updated Steam description.
+
+1.0.0 - Dec 2 @ 2:25pm
+- Initial Release
