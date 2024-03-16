@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Dolormol</name>
+  <author>themattfiles</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>tmf.dolormol</packageId>
+  <description>Trust DOLORMOL®, the #1 doctor-recommended brand for pain relief and fever reduction to help you get back to the things you love. Containing 500 mg of neutroamine, DOLORMOL® Extra Strength Caplets help temporarily reduce fever in adults and children, and provide powerful relief of minor scars, missing limbs, botched surgeries and more.
+
+  Penoxycyline art by Ludeon Studios.
+
+  Created with Aesprite, Adobe Photoshop, and Visual Studio Code.</description>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+  </loadAfter>
+</ModMetaData>
